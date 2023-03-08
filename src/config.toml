@@ -69,8 +69,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Silmar"
+    # subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
     copyright = ""
@@ -85,14 +85,14 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Silmar Junior"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
