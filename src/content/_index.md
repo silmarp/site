@@ -1,14 +1,21 @@
 ---
 title: ""
 date: 2023-03-09T18:50:21-03:00
-draft: true
+draft: false
 ---
 # About me
-Hello there, if you haven't already noticed by the domain and title my name is Silmar, I'm a Brazilian college student and programmer trying to work on open source.
+Hello there,  my name is Silmar, I'm a Brazilian programmer and computer information systems college student.
 
 # My interests
-Nerd things, programming, gaming 
+# Occupation
 
-# What do I do ?
+# Education
+Currently undergraduate Bachelor of Computer Information Systems at [University of São Paulo](https://www5.usp.br/)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/)
 
-# What do I uses ?
+# Experience
+## Web developer Intern (2022 - 2022):
+[LVIDO](https://www.lvido.tech/) maintenance and development of projects involving python/django and docker.
+# Tools
+# Social
+[Github](https://github.com/silmarp)
+[]()
