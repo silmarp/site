@@ -25,6 +25,6 @@ Development of web scraping automation scripts using python.
 
 ## Web developer Intern (2022 - 2022):
 [LVIDO](https://www.lvido.tech/) maintenance and development of projects involving python/django and docker.
+
 # Social
-[Github](https://github.com/silmarp) 
-[]()
+[Github](https://github.com/silmarp) [Linkedin](https://www.linkedin.com/in/silmar-junior-2837811a7/) 
