@@ -19,7 +19,25 @@
     "root": {
       "inputs": {
         "nixpkgs": "nixpkgs",
+        "terminal": "terminal",
         "utils": "utils"
+      }
+    },
+    "terminal": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1674339178,
+        "narHash": "sha256-EkAH6p5vG4S1eEQqtT8OrvK1ldZKmJPwkWC28RM45K4=",
+        "owner": "panr",
+        "repo": "hugo-theme-terminal",
+        "rev": "2b14b3d4e5eab53aa45647490bb797b642a82a59",
+        "type": "github"
+      },
+      "original": {
+        "owner": "panr",
+        "repo": "hugo-theme-terminal",
+        "rev": "2b14b3d4e5eab53aa45647490bb797b642a82a59",
+        "type": "github"
       }
     },
     "utils": {
