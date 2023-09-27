@@ -11,12 +11,15 @@ Nowadays my main interests are in web development, linux, rust, nix and nixOS.
 
 Aside from programming and technology I'm interested in sandbox and automation games, animes and manga.
 
-
 # Occupation
 Currently unemployed (interested in hiring, contact me).
 
 # Education
-Undergraduate Bachelor of Computer Information Systems at [University of São Paulo](https://www5.usp.br/)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/)
+Undergraduate Bachelor of Computer Information Systems at [University of São Paulo](https://www5.usp.br/)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/).
+
+## Extracurricular activities
+Member and co-founder of [GELOS](https://gelos.club/sobre/), an [ICMC](https://www.icmc.usp.br/en/) extension group focused on promoting free and open source software to the community.
+
 
 # Experience
 ## Web scraping freelance (2021):
@@ -27,4 +30,4 @@ Development of web scraping automation scripts using python.
 [LVIDO](https://www.lvido.tech/) maintenance and development of projects involving python/django and docker.
 
 # Social
-[Github](https://github.com/silmarp) [Linkedin](https://www.linkedin.com/in/silmar-junior-2837811a7/) 
+[Github](https://github.com/silmarp) [Linkedin](https://www.linkedin.com/in/silmar-junior-2837811a7/) [telegram](https://t.me/silmarp)
