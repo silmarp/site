@@ -12,14 +12,17 @@
         pkgs = import nixpkgs { inherit system; };
       in
       {
-        packages.silmar-website = pkgs.callPackage ./default.nix {};
+        packages = rec {
+          silmar-website = pkgs.callPackage ./default.nix {};
+          default = silmar-website;
+        };
 
-        defaultPackage = self.packages.${system}.silmar-website;
-
-        devShell = pkgs.mkShell {
-          packages = with pkgs; [
-            hugo
-          ];
+        devShells = { 
+          default = pkgs.mkShell {
+            packages = with pkgs; [
+              hugo
+            ];
+          };
         };
       }
     );
