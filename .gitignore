@@ -3,6 +3,9 @@
 public/
 _gen/
 
+# themes folder
+themes/
+
 # Executable may be added to repository
 hugo.exe
 hugo.darwin
