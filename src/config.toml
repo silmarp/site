@@ -1,6 +1,7 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'My personal website'
+enableRobotsTXT = true
 
 
 # Terminal Theme configuration
